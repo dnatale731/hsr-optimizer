@@ -10,7 +10,7 @@ Substat weights are graded on a 0.0 to 1.0 scale in increments of 0.25, based on
 
 * CRIT Rate / CRIT Damage weight:
     * Crit DPS in general are given the weights 0.75 ATK | 1.0 SPD | 1.0 CR | 1.0 CD, unless they have any other special scaling.
-    * ATK is weighted slightly than CR and CD rolls because in general crit substats will provide a higher boost to damage.
+    * ATK is weighted slightly lower than CR and CD rolls because in general crit substats will provide a higher boost to damage.
 
 
 * HP / DEF weight:
@@ -25,7 +25,7 @@ Substat weights are graded on a 0.0 to 1.0 scale in increments of 0.25, based on
 These weights are the defaults, but each player may have different preferences.
 Feel free to adjust the weights to fit a certain playstyle.
 DPS characters should rely on the optimizer and Combat Score to evaluate their performance in combat,
-since substats scores don't take into account external factors like team buffs or passive effects.
+since substat scores don't take into account external factors like team buffs or passive effects.
 
 ## Stat score calculations
 
